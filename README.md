@@ -8,7 +8,7 @@ Ang Owshen ay isang makabagong platform sa privacy na binuo para sa mga blockcha
 Bago simulan ang aming testnet, nagpapatakbo kami ng zk-airdrop na namamahagi ng pinakaunang DIVE token sa aming mga user. Para makasali sa airdrop na ito, kakailanganin mo ng Owshen Address. Ito ay kung paano ka makakakuha ng Owshen Address:
 
 1. Maaring mag install ng GNU/Linux machine. (Ubuntu +22.04 ay mas mainam)
-2. Para sa mga Windows users, maaring makita ang instruction kung paano mag install ng linux sa inyong windwos machine. https://ubuntu.com/tutorials/install-ubuntu-on-wsl2-on-windows-11-with-gui-support#2-install-ws
+2. Para sa mga Windows users, maaring makita ang instruction kung paano mag install ng linux sa inyong windows machine. https://ubuntu.com/tutorials/install-ubuntu-on-wsl2-on-windows-11-with-gui-support#2-install-ws
 3. Install `libfuse2`:
     ```bash
     sudo apt install libfuse2
