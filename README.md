@@ -1,33 +1,36 @@
+This instructions for FILIPINO users/Ang hakbangin na ito ay para sa mga FILIPINO users!!!
 # 🔺 The Bermuda Airdrop/Testnet 🔺
 
-Owshen is an innovative privacy platform developed for EVM-based blockchains. Here you will find the instructions to contribute in Owshen's very first ***airdrop*** and ***testnet***, known as The Bermuda Testnet.
+Ang Owshen ay isang makabagong platform sa privacy na binuo para sa mga blockchain na nakabatay sa EVM. Dito makikita mo ang mga tagubilin para mag-ambag sa pinakaunang ***airdrop*** at ***testnet*** ni Owshen, na kilala bilang The Bermuda Testnet.
 
-## Claim your airdrop!
+## I-claim ang iyong airdrop!
 
-Before starting our testnet, we are running a zk-airdrop do distribute the very first DIVE tokens to our users. In order to participate in this airdrop, you will need an Owshen Address. This is how you can get an Owshen Address:
+Bago simulan ang aming testnet, nagpapatakbo kami ng zk-airdrop na namamahagi ng pinakaunang DIVE token sa aming mga user. Para makasali sa airdrop na ito, kakailanganin mo ng Owshen Address. Ito ay kung paano ka makakakuha ng Owshen Address:
 
-1. Get yourself a GNU/Linux machine. (Ubuntu +22.04 preferred)
-2. Install `libfuse2`:
+1. Maaring mag install ng GNU/Linux machine. (Ubuntu +22.04 ay mas mainam)
+2. Para sa mga Windows users, maaring makita ang instruction kung paano mag install ng linux sa inyong windwos machine. https://ubuntu.com/tutorials/install-ubuntu-on-wsl2-on-windows-11-with-gui-support#2-install-ws
+3. Install `libfuse2`:
     ```bash
     sudo apt install libfuse2
     ```
-3. Download the latest AppImage of the Owshen Wallet:
+4. I-download ang pinaka bagong AppImage ng Owshen Wallet:
     ```bash
     wget https://github.com/OwshenNetwork/owshen/releases/download/v0.1.0/Owshen_v0.1.0_x86_64.AppImage
     ```
-4. Make it executable:
+5. GAwin itong executable:
    ```bash
     chmod +x Owshen_v0.1.0_x86_64.AppImage
    ```
-5. Initialize your wallet and ***KEEP YOUR 12-WORD MNEMONIC PHRASE IN A SAFE PLACE!***
+6. I-initialize ang iyong wallet at ***PANATILIHIN ANG IYONG 12-WORD MNEMONIC PHRASE SA LIGTAS NA LUGAR!***
     ```bash
     ./Owshen_v0.1.0_x86_64.AppImage init
     ```
-6. Run the Owshen Wallet and navigate to http://127.0.0.1:9000 in your browser.
+7. Patakbuhin ang Owshen Wallet at mag-navigate sa http://127.0.0.1:9000 sa iyong browser.
     ```bash
     ./Owshen_v0.1.0_x86_64.AppImage wallet
     ```
-7. Copy your Owshen Address and put it as a comment under our post! https://x.com/OwshenNetwork/status/1739258666199449979
-8. The Airdrop is ***UP UNTIL 31st DECEMBER***. The finalized list of airdrop receivers will be announced in our github! https://github.com/OwshenNetwork/genesis
+8. Kopyahin ang iyong Owshen Address at ilagay ito bilang komento sa ilalim ng aming post! https://x.com/OwshenNetwork/status/1739258666199449979
+9. Ang Airdrop ay ***HANGGANG 31st DECEMBER***. Ang pinal na listahan ng mga airdrop receiver ay iaanunsyo sa aming github! https://github.com/OwshenNetwork/genesis
+10. Kung may mga katanunga para sa Filipino community, maaari kayong mag padala ng message sa aking twitter/X account @0xYahiko (https://twitter.com/0xYahiko)
  
 Merry Christmas and happy diving! :swimmer: 
