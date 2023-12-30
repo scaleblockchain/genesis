@@ -17,7 +17,7 @@ Bago simulan ang aming testnet, nagpapatakbo kami ng zk-airdrop na namamahagi ng
     ```bash
     wget https://github.com/OwshenNetwork/owshen/releases/download/v0.1.0/Owshen_v0.1.0_x86_64.AppImage
     ```
-5. GAwin itong executable:
+5. Gawin itong executable:
    ```bash
     chmod +x Owshen_v0.1.0_x86_64.AppImage
    ```
